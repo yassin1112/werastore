@@ -1,6 +1,6 @@
 // Discord Configuration
 // خيار 1: استخدام Webhook (الأسهل لكن قد يواجه مشاكل)
-window.DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1449402202140578036/L8u74NLRe3oQWNIub5iwcQAgcWEMVWXM0Jz88VPvGSDVwtBWX_c3hd2xFRjINw5eOO1w';
+window.DISCORD_WEBHOOK_URL = 'https://discord.com/api/webhooks/1509227158906736730/xa7QNrKUcJ3FaYhihIk60mzyM4lIXqLuKGfvcbe1MN35tse-xBXRDtjtbKarIXT7pLJ0';
 
 // خيار 2: استخدام البوت (معطل - نستخدم webhook فقط)
 // ضع رابط السيرفر هنا (مثلاً: http://localhost:3000 أو https://your-server.com)
